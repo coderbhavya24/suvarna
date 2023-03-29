@@ -2,16 +2,12 @@
 
 A new Flutter project.
 
+![Landing Page](https://user-images.githubusercontent.com/87651595/228662720-53400cb3-8fd8-4d64-8bae-221230a2ac99.jpeg)
+![Home Page](https://user-images.githubusercontent.com/87651595/228662777-9cd9e582-80bb-4170-ade3-1610bc1eb144.jpeg)
+![Registration](https://user-images.githubusercontent.com/87651595/228662878-c1ae8b5c-898a-4fa7-9dfb-e392be98de51.jpeg)
+![Upload Image](https://user-images.githubusercontent.com/87651595/228662910-3785e81a-48d1-44a1-b529-1bdfac861a37.jpeg)
+![Registration](https://user-images.githubusercontent.com/87651595/228662977-88a01a3a-381e-430d-8c3d-00fbd345caaa.jpeg)
+![Forgot Password](https://user-images.githubusercontent.com/87651595/228663002-a51b1aad-4293-4fe5-ace7-9a705a43bf49.jpeg)
 
-## Getting Started!
-[kkkk](https://user-images.githubusercontent.com/87651595/228661512-72bc1ba6-6fcc-41c0-bf39-2e14a01e238c.jpeg)
-[k](https://user-images.githubusercontent.com/87651595/228661536-d1bf2b40-242e-4dd8-8312-0b355d04d3af.jpeg)
-[](https://user-images.githubusercontent.com/87651595/228661544-207d559c-f95d-4e7b-8b7c-c03faea9db1f.jpeg)
-[](https://user-images.githubusercontent.com/87651595/228661560-9208a9c7-a8c9-4c2d-a13e-7eefff96a194.jpeg)
-[](https://user-images.githubusercontent.com/87651595/228661586-fc60bd5f-4502-45a9-957d-a4b43d1532c0.jpeg)
-[](https://user-images.githubusercontent.com/87651595/228661579-39d0e5c5-665b-4219-9972-c64190cc44a1.jpeg)
-
-
-For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
